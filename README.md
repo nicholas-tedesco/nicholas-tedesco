@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicholas-tedesco
-- 👀 I have interests in machine learning / artificial intelligence, and work primarily in python
+- 👀 I have interests in machine learning + artificial intelligence, and work primarily in python + R
 - 🌱 I’m currently pursuing a master's in computer science from Georgia Tech while working as a statistician at the University of Michigan
 
 <!---
