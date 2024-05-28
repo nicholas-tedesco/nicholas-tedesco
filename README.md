@@ -11,4 +11,6 @@ I am currently...
 Feel free to connect with me on LinkedIn or reach out via email! 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/nicholas-r-tedesco/)
-[![G-Mail](https://skillicons.dev/icons?i=gmail&theme=light)](https://www.linkedin.com/in/nicholas-r-tedesco/)
+<a href="https://gmail.com">
+  <img src="href=https://skillicons.dev/icons?i=gmail&theme=light">
+</a>
