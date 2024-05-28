@@ -11,6 +11,4 @@ I am currently...
 Feel free to connect with me on LinkedIn or reach out via email! 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/nicholas-r-tedesco/)
-<a href="https://gmail.com">
-  <img src="href=https://skillicons.dev/icons?i=gmail&theme=light">
-</a>
+[![G-Mail](https://skillicons.dev/icons?i=gmail&theme=light)]((mailto:nicholas.r.tedesco@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
