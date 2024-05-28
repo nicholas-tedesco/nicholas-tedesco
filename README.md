@@ -10,5 +10,5 @@ I am currently...
 
 Feel free to connect with me on LinkedIn or reach out via email! 
 
-Contact: [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/nicholas-r-tedesco/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/nicholas-r-tedesco/)
 [![G-Mail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:nicholas.r.tedesco@gmail.com)
