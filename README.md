@@ -1,7 +1,5 @@
 ## 👋 Hi, I’m @nicholas-tedesco! 
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nicholas-r-tedesco/)
-
 - 🌱 I'm an aspiring software developer with interests in machine learning and full stack development. 
 - 📚 In undergrad, I studied biochemistry with the intention of continuing on to medical school. However, I realized my passion for coding along the way! 
 - I am currently...
@@ -10,3 +8,5 @@
   - 🖥️ teaching myself web development and new programming languages.
 
 Feel free to connect with me on LinkedIn or reach out via email! 
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/nicholas-r-tedesco/)
