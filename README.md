@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @nicholas-tedesco
-- 👀 I have interests in machine learning + artificial intelligence, and work primarily in python + R
-- 🌱 I’m currently pursuing a master's in computer science from Georgia Tech while working as a data scientist at Michigan Medicine
-<!---
-nicholas-tedesco/nicholas-tedesco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👋 Hi, I’m @nicholas-tedesco! 
 
-## 👋 Hi, I’m @nicholas-tedesco
+- 🌱 I'm an aspiring software developer with interests in machine learning and full stack development. 
+- 📚 In undergrad, I studied biochemistry with the intention of continuing on to medical school. However, I realized my passion for coding along the way! 
+- I am currently...
+  - 👨‍💼 working as a data scientist at Michigan Medicine.
+  - 🏫 pursuing a master's degree in computer science from Georgia Tech.
+  - 🖥️ teaching myself web development and new programming languages.
+
+Feel free to connect with me on LinkedIn or reach out via email! 
