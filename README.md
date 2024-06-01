@@ -10,5 +10,4 @@ I am currently...
 
 Feel free to connect with me on <a href=https://www.linkedin.com/in/nicholas-r-tedesco/>LinkedIn</a> or reach out via <a href=mailto:nicholas.r.tedesco@gmail.com>email</a>! 
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/nicholas-r-tedesco/)
-[![G-Mail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:nicholas.r.tedesco@gmail.com)
+[![Skills](https://skillicons.dev/icons?i=py,java&theme=light)](#)
