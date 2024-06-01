@@ -8,7 +8,7 @@ I am currently...
 - 🏫 pursuing a master's degree in computer science from Georgia Tech.
 - 🖥️ teaching myself web development and new programming languages to supplement my coursework.
 
-Feel free to connect with me on LinkedIn or reach out via email! 
+Feel free to connect with me on <a href=https://www.linkedin.com/in/nicholas-r-tedesco/> LinkedIn </a> or reach out via email! 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/nicholas-r-tedesco/)
 [![G-Mail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:nicholas.r.tedesco@gmail.com)
