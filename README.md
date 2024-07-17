@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @nicholas-tedesco! 
 
-- 🌱 I'm an aspiring software developer with interests in machine learning and full stack development. 
+- 🌱 I'm an aspiring software developer with interests in data science, machine learning, and full stack development. 
 - 📚 In undergrad, I studied biochemistry with the intention of continuing on to medical school. However, I realized my passion for coding along the way!
   
 I am currently...
