@@ -3,7 +3,7 @@
 - 🌱 I'm an aspiring software developer with interests in data science, machine learning, and full stack development. 
 - 📚 In undergrad, I studied biochemistry with the intention of continuing on to medical school. However, I realized my passion for coding along the way!
   
-I am currently...
+I'm currently...
 - 👨‍💼 working as a data scientist at Michigan Medicine.
 - 🏫 pursuing a master's degree in computer science from Georgia Tech.
 - 🖥️ teaching myself web development and new programming languages to supplement my coursework.
