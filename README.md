@@ -6,7 +6,7 @@
 I'm currently...
 - 👨‍💼 working as a data scientist at Michigan Medicine.
 - 🏫 pursuing a master's degree in computer science from Georgia Tech.
-- 🖥️ teaching myself web development and new programming languages to supplement my coursework.
+- 🖥️ teaching myself new programming languages to supplement my coursework.
 
 Feel free to connect with me on LinkedIn or reach out via email!
 
