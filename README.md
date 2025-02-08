@@ -4,7 +4,7 @@
 - 📚 In undergrad, I studied biochemistry with the intention of continuing on to medical school. However, I realized my passion for coding along the way!
   
 I'm currently...
-- 👨‍💼 working as a data scientist at Michigan Medicine.
+- 👨‍💼 working as a data scientist at Humana.
 - 🏫 pursuing a master's degree in computer science from Georgia Tech.
 - 🖥️ teaching myself new programming languages to supplement my coursework.
 
